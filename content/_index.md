@@ -1,7 +1,11 @@
 ---
-title: 'Ananke: a Hugo Theme'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: The last theme you'll ever need. Maybe.
+title: Tollgate Waste
+featured_image: "/images/logo1white.jpg"
+description: Tollgate Trash & Recycling
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Tollgate Trash Panda service includes a once-weekly pickup of a 96 gallon can, or equivalent, which is roughly 8 -10 household sized bags. 
+
+All waste must fit inside the can, with the lid closed.
+
+All waste must be bagged, no open items.
